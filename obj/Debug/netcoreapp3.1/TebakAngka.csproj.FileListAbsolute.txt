@@ -1,0 +1,13 @@
+E:\Kerja\Belajar Dotnet\TebakAngka\bin\Debug\netcoreapp3.1\TebakAngka.exe
+E:\Kerja\Belajar Dotnet\TebakAngka\bin\Debug\netcoreapp3.1\TebakAngka.deps.json
+E:\Kerja\Belajar Dotnet\TebakAngka\bin\Debug\netcoreapp3.1\TebakAngka.runtimeconfig.json
+E:\Kerja\Belajar Dotnet\TebakAngka\bin\Debug\netcoreapp3.1\TebakAngka.runtimeconfig.dev.json
+E:\Kerja\Belajar Dotnet\TebakAngka\bin\Debug\netcoreapp3.1\TebakAngka.dll
+E:\Kerja\Belajar Dotnet\TebakAngka\bin\Debug\netcoreapp3.1\TebakAngka.pdb
+E:\Kerja\Belajar Dotnet\TebakAngka\obj\Debug\netcoreapp3.1\TebakAngka.csprojAssemblyReference.cache
+E:\Kerja\Belajar Dotnet\TebakAngka\obj\Debug\netcoreapp3.1\TebakAngka.AssemblyInfoInputs.cache
+E:\Kerja\Belajar Dotnet\TebakAngka\obj\Debug\netcoreapp3.1\TebakAngka.AssemblyInfo.cs
+E:\Kerja\Belajar Dotnet\TebakAngka\obj\Debug\netcoreapp3.1\TebakAngka.csproj.CoreCompileInputs.cache
+E:\Kerja\Belajar Dotnet\TebakAngka\obj\Debug\netcoreapp3.1\TebakAngka.dll
+E:\Kerja\Belajar Dotnet\TebakAngka\obj\Debug\netcoreapp3.1\TebakAngka.pdb
+E:\Kerja\Belajar Dotnet\TebakAngka\obj\Debug\netcoreapp3.1\TebakAngka.genruntimeconfig.cache
